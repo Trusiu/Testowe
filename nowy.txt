@@ -1,2 +1,6 @@
 -Linia /krzychu
+<<<<<<< HEAD
 DODAJE ZMIANE
+=======
+TO MOJA
+>>>>>>> tomek
